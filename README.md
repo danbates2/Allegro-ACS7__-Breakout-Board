@@ -1,1 +1,1 @@
-# Allegro ACS7__ Breakout Board
+# Allegro ACS7** Breakout Board
